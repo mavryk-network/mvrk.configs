@@ -4,12 +4,10 @@
 		"p2p":
 			{ 
 				"bootstrap-peers":
-		  			[ "ghostnet.teztnets.com", "ghostnet.tzinit.org",
-					"ghostnet.tzboot.net", "ghostnet.boot.ecadinfra.com",
-					"ghostnet.stakenow.de:9733" ],
+		  			[ "basenet.rpc.mavryk.network" ],
 				"listen-addr": "[::]:9732" 
 			},
   		"shell": { "history_mode": "rolling" }, 
-		"network": "ghostnet" },
+		"network": "basenet" },
 	"NODE_TYPE":"baker"
 }

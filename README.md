@@ -1,3 +1,3 @@
-# xtz.configs
+# mvrk.configs
 
 Node and Signer configurations

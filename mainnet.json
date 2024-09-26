@@ -2,7 +2,7 @@
 	"CONFIG_FILE":{
 		"p2p":{
 			"bootstrap-peers":[
-				"boot.tzbeta.net"
+				"rpc.mavryk.network"
 			],
 			"listen-addr":"[::]:9732",
 			"limits":{
